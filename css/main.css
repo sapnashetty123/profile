@@ -9,6 +9,14 @@ hr{
     height:2px;
     background-color: green;
 }
+form{
+    width: 500px;
+    height: 200px;
+}
+label{
+    float: left;
+    width:200px;
+}
 h3{
     width: 100%;
     background-color: grey;
